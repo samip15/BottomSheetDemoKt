@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomSheetDialogDemo</string>
+    <string name="share_now">Share Now</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="u2089_734">₉ 734</string>
+    <string name="u20b9_734">₹ 734</string>
+    <string name="women_u_0027_syntatic_line_dress">Women Syntatic Line Dress</string>
+    <string name="shre_product_via">Shre Product Via...</string>
+    <string name="show_buttom_sheet_dialog">Show Buttom Sheet Dialog</string>
+</resources>
